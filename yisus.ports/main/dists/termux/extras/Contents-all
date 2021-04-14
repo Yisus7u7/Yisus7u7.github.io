@@ -1,0 +1,6 @@
+data/data/com.termux/files/usr/bin/rapidpayload                                  RapidPayload
+data/data/com.termux/files/usr/share/applications/rapidpayload.desktop           RapidPayload
+data/data/com.termux/files/usr/share/rapid_payload/icon.png                      RapidPayload
+data/data/com.termux/files/usr/share/rapid_payload/payload.py                    RapidPayload
+data/data/com.termux/files/usr/bin/apktool                                       apktool
+data/data/com.termux/files/usr/lib/apktool.jar                                   apktool

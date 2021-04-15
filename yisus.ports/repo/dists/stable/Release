@@ -1,42 +1,26 @@
 Codename: yisus.ports
-Version: 1.1
-Architectures: all arm
+Version: 1.2
+Architectures: all
 Description: stable repository
 Suite: stable
-Date: Thu, 15 Apr 2021 12:36:35 UTC
+Date: Thu, 15 Apr 2021 12:59:01 UTC
 MD5Sum:
  d6303c69be39aed89722f0d1be659b57 1104 main/binary-all/Packages
  d4c8835d36180e684fa945d3e50c9e21 756 main/binary-all/Packages.xz
- 9c7d804910e59c63886bb57a2d4fa218 771 main/binary-arm/Packages
- bcfbb144f0822f5b9e8c0ead94c75540 624 main/binary-arm/Packages.xz
  252dfd4038ffa549e5efe008ca94f0fe 554 main/Contents-all
- 97d226da4858d3a63dfadd1bd2bfc180 140977 main/Contents-arm
  1d3dbdfa9edec58918622ce585357162 196 main/Contents-all.xz
- f33a11546917e1184028bafbe80a9bc5 10628 main/Contents-arm.xz
 SHA1:
  c3c18ed932ccbcb672210c3153f4f976cbb73209 1104 main/binary-all/Packages
  549076600a174460f5db95c962568058573d10c3 756 main/binary-all/Packages.xz
- 5415ee7d42c31ce6161da25b6f6db900481558b3 771 main/binary-arm/Packages
- cab676022abc8d39b5f5b57c9daac8d280abf734 624 main/binary-arm/Packages.xz
  01fb57215c2081bb3275006885ea407b6e4a5d32 554 main/Contents-all
- 86f9c7f5d1578a1374d8b2dcec2fdbfc99968277 140977 main/Contents-arm
  345cf597c60a297c31594690caace13819f8c849 196 main/Contents-all.xz
- 7d796a82ec1bdbe356dbb8c270e23efbe8330688 10628 main/Contents-arm.xz
 SHA256:
  17af44244a3757180b97db966747479965f82933d34d2a2cdd307b166842ce66 1104 main/binary-all/Packages
  4b72993568cd74cd70e345240732cfa14dd820ffab2f9b8241cba85b3b603af3 756 main/binary-all/Packages.xz
- cc721da3a3e6f34cc831eac4d5e081fc2631a8b4c0e88d9ff23586ad57fb8f00 771 main/binary-arm/Packages
- 40853585b6b03c24b164c861071405aea73f69817fd67ba8dfaac2d8488c3b33 624 main/binary-arm/Packages.xz
  be8f2abf7257120d7c9272d88817b3661713e7376a64e76f5799bdaefc5dac5b 554 main/Contents-all
- 488faef549297e306ee53d3e43f261a97cfdb0d0a3a3f4c7fb006694020a1cb1 140977 main/Contents-arm
  e563ce37396157928373002c8f32a531666c1ddcb4117364b54dbdc162e99c1d 196 main/Contents-all.xz
- 11a696c43f8efb15a99ee6fd95ae66c6ccc95cff8368fe96998e5c44a42da3da 10628 main/Contents-arm.xz
 SHA512:
  e0cd538bc33e2adb168e6285aa05be3f325197603eba867501359949ae7eed3d466b2a5f6ec84153a1beab04ef1cf4bf6a4bdcf10a0ccad2eb8487f5fd53ed38 1104 main/binary-all/Packages
  82e05479209398c4f95cfbf3ab027cc34a59b8a36029d4f49ecff989077955e5b8ce4114f3dfe0032ebd0b783aabf2812753ff454d3a6019f71e9bb40d63fa70 756 main/binary-all/Packages.xz
- f08da6b44dac140fee6d1bacf2d548ee2130bb7a4aa4389407a61d8d252938b8cbf894a778c58f7ddd62ef5f88079dd4cae1c29cfbff94ebdaa7860b89326b99 771 main/binary-arm/Packages
- 02b6c9bf696251ee9019b05c31479a15a61d587bc75feaf68c6cc7f31123155a3dc38c3094ab9e18a6736c2554ef88afbb2135fd82b78e7ab41dd645f9d22102 624 main/binary-arm/Packages.xz
  a70e392970a8675e362091cb363c08c3d03847603f5d75b0d4a352320153db4cb40090a13d62a88f1438e8d6e0be5cffce8670caaea606f27ca4126b5daf6c58 554 main/Contents-all
- 3d5a73fb81ad2ce81713a2dd40a97d913a31e093cd306edf0df4e83b0dc403a424e94dc4d5ebc62997de6c79d20e76db2f1c5917394beaab6b38accad358a7c9 140977 main/Contents-arm
  bc0ff1c59c6bab3bb612602cc2d245ad00501f612345089072a892bed5ef68fd08b33c160dae2a4a46c86bf7ba208f66dfe434562350d2f8337b86b8d639aabe 196 main/Contents-all.xz
- 2643f9a501269c892f69edab30664033f35d5f59a39f994c18787397d1260f0b21585f44bb67fbe9bb41044df5341b2cd474d76aa291b191dbc100c89ea49248 10628 main/Contents-arm.xz

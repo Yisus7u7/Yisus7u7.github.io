@@ -1,0 +1,29 @@
+Package: RapidPayload
+Version: 2.0
+Architecture: all
+Maintainer: @yisus7u7v
+Description: Genere payloads de Metasploit sin complicaciones
+Depends: python,python-tkinter
+Recommends: aapt
+Suggests: sl
+Provides: vi
+Filename: dists/stable/main/binary-all/RapidPayload_2.0_all.deb
+Size: 309216
+MD5Sum: e828e50d483b52cf6ae4732115a9b023
+SHA1: f340b9af16af244a372542db8c570c07cc06fd5c
+SHA256: b2d7eaccaea7e7526f9fde3dfdd21c36a54b7487f7e9b835ce0937f0a4116b55
+SHA512: 941f044ac164b41f1c5ccc70933bce9c213574a776ecbcf5317aa339c4ff1adc91280c364931f0ad6f5092b1ffbce21aee5f6c6071b4797b3891ec022140a18b
+
+Package: apktool
+Version: 2.3.4
+Architecture: all
+Homepages: http://penyon.info
+Description: Android everse engineering 
+Maintainer: @Lexiie
+Filename: dists/stable/main/binary-all/apktool_2.3.4_all.deb
+Size: 11398220
+MD5Sum: 1e8ecc417e0d3bbb34e88b552c0645a4
+SHA1: c3edeeb1b73d6d4c555af1672dc10d1a4482aa07
+SHA256: 08428aeadb2eac30eebde05774154bd08fc9be2a74e94fa36ace91a3d3d40d41
+SHA512: 2d0e8f7382b6cf18286aec8a33a9f98f169df284b58940def62f1d803cb56b318472a83f742ff8fd9fd81ab540f574c0bdcacea30c0d664c10f35077b0f57030
+

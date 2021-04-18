@@ -3,7 +3,7 @@ Version: 1
 Architectures: all
 Description: termux repository
 Suite: termux
-Date: Thu, 15 Apr 2021 20:50:30 UTC
+Date: Sun, 18 Apr 2021 18:13:58 UTC
 MD5Sum:
  11118659e6b0dba2e7a604329b9fb420 1738 extras/binary-all/Packages
  2e6c9e7a68730635fddc75444e839c3d 1032 extras/binary-all/Packages.xz

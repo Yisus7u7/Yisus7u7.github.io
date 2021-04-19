@@ -7,7 +7,7 @@ Depends: python,python-tkinter
 Recommends: aapt
 Suggests: sl
 Provides: vi
-Filename: dists/termux/extras/binary-all/RapidPayload_2.0_all.deb
+Filename: dists/stable/extras/binary-all/RapidPayload_2.0_all.deb
 Size: 309216
 MD5Sum: e828e50d483b52cf6ae4732115a9b023
 SHA1: f340b9af16af244a372542db8c570c07cc06fd5c
@@ -20,7 +20,7 @@ Architecture: all
 Homepages: http://penyon.info
 Description: Android everse engineering 
 Maintainer: @Lexiie
-Filename: dists/termux/extras/binary-all/apktool_2.3.4_all.deb
+Filename: dists/stable/extras/binary-all/apktool_2.3.4_all.deb
 Size: 11398220
 MD5Sum: 1e8ecc417e0d3bbb34e88b552c0645a4
 SHA1: c3edeeb1b73d6d4c555af1672dc10d1a4482aa07
@@ -36,7 +36,7 @@ Homepage: https://www.opendesktop.org/p/1305251/
 Depends: python,gtk2,gtk2,desktop-file-utils
 Recommends: dbus
 Suggests: xfce4
-Filename: dists/termux/extras/binary-all/candy-icon-theme_3.4_all.deb
+Filename: dists/stable/extras/binary-all/candy-icon-theme_3.4_all.deb
 Size: 1034472
 MD5Sum: d1c33757baed1b48d7a76c6b54004327
 SHA1: f68b3dc39eb18eeb8460f567247a13d99467fd12
@@ -52,7 +52,7 @@ Homepage: https://store.kde.org/p/1400424/
 Depends: adwaita-icon-theme,gtk2,gtk3,desktop-file-utils
 Recommends: dbus
 Suggests: xfce4
-Filename: dists/termux/extras/binary-all/mac-themes_2.3_all.deb
+Filename: dists/stable/extras/binary-all/mac-themes_2.3_all.deb
 Size: 282768
 MD5Sum: 1f42bc94dcdce96a1b0c9caa2c1fe5f7
 SHA1: 859c8863367b0bfd2bf14b0a42c78b1a8ef5cb67
@@ -68,7 +68,7 @@ Homepage: https://www.pling.com/p/1360254/
 Depends: adwaita-icon-theme,gtk2,gtk2,desktop-file-utils
 Recommends: dbus
 Suggests: xfce4
-Filename: dists/termux/extras/binary-all/oreo-blue-cursors-theme_2.3_all.deb
+Filename: dists/stable/extras/binary-all/oreo-blue-cursors-theme_2.3_all.deb
 Size: 51112
 MD5Sum: 4f29c59e947237d9fdf0f6bc540485a5
 SHA1: 4fecbe71e5d71bee16a5460ce3d6071cc78051bb
@@ -84,7 +84,7 @@ Homepage: https://www.pling.com/p/1279924/
 Depends: adwaita-icon-theme,gtk2,gtk2,desktop-file-utils
 Recommends: dbus
 Suggests: xfce4
-Filename: dists/termux/extras/binary-all/tela-yellow-icon-theme_1.7_all.deb
+Filename: dists/stable/extras/binary-all/tela-yellow-icon-theme_1.7_all.deb
 Size: 2481748
 MD5Sum: 62597d23997dd7cdcfec2a32e52aeea3
 SHA1: d23acd304cccc30eac6f9e5e2feb39fb276f1339

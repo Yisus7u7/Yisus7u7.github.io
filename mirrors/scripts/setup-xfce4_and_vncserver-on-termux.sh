@@ -43,7 +43,7 @@ chmod +x xstartup
 
 mv $HOME/xstartup $HOME/.vnc/xstartup
 
-wget https://download1508.mediafire.com/xdn2io7kf18g/gpkhrwc1uue0zsx/user-dirs.dirs 
+wget -L https://Yisus7u7.github.io/mirrors/scripts/user-dirs.dirs
 
 chmod +x $HOME/user-dirs.dirs 
 
